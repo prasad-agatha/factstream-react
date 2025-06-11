@@ -1,0 +1,245 @@
+.text-center {
+  text-align: center;
+}
+.value-text {
+  top: 11px;
+  // position: relative;
+  font-size: 14px;
+}
+.quantum-text {
+  display: flex;
+  align-items: flex-end;
+}
+.custom_icon {
+  float: right;
+  color: #4a90e2;
+}
+.main-content-text {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+  color: '#333333';
+}
+.main-content-text-normal {
+  font-size: 14px;
+  font-family: 'Nunito', sans-serif;
+  color: '#333333';
+}
+.sub-content-text {
+  font-size: 11px;
+  font-weight: normal;
+  color: '#666666' !important;
+  font-family: 'Nunito', sans-serif;
+  margin: 6px;
+}
+.form-label {
+  color: #999999;
+  font-size: 12px;
+  font-family: 'Nunito', sans-serif;
+  margin-right: 5px;
+}
+.popupTitle {
+  margin: 0 !important;
+  background-color: #4a90e2 !important;
+  color: #ffffff !important;
+  padding: 16px 24px !important;
+}
+.spantext {
+  position: absolute;
+}
+.menuItem {
+  font-size: 14px !important;
+}
+.company-name {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+.stepper {
+  background-color: transparent !important;
+  padding: 12px !important;
+}
+.success-text {
+  font-size: 18px;
+  color: #7ec17b !important;
+}
+.viewAll {
+  padding-right: 20px !important;
+  font-size: 15px !important;
+  font-weight: 600;
+  position: relative !important;
+}
+.filing-status {
+  background: #76a9e2 !important;
+  color: #ffffff !important;
+  padding: 4px 13px !important;
+  border-radius: 12px !important;
+}
+.arrowIcon {
+  position: absolute !important;
+  font-size: 20px !important;
+  top: 1px !important;
+}
+.table-font {
+  font-size: 12px !important;
+}
+.filing_text {
+  font-size: 14px !important;
+  color: #000 !important;
+  width: 200px !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+.tooltip-content {
+  // position: absolute;
+  // z-index: 1070;
+  display: block;
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  text-align: start;
+  text-decoration: none;
+  text-shadow: none;
+  text-transform: none;
+  letter-spacing: normal;
+  word-break: normal;
+  word-spacing: normal;
+  white-space: normal;
+  line-break: auto;
+  font-size: 0.875rem;
+  word-wrap: break-word;
+  margin-top: -10px;
+}
+.tooltiptext {
+  visibility: hidden;
+  /* width: 120px; */
+  background: #fff;
+  font-size: 11px;
+  border: 1px solid #89aff0;
+  color: #4a90e2;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  z-index: 1;
+  /* top: 91%; */
+  /* left: 37%; */
+  margin-top: 0px;
+  position: absolute;
+  margin-left: 10px;
+}
+.tooltip-content:hover .tooltiptext {
+  visibility: visible;
+}
+/* ==================== Stepper utils ==================== */
+.steproot {
+  color: #eaeaf0;
+  display: flex !important;
+  height: 18px;
+  align-items: center;
+  background-color: transparent;
+}
+.stepComplete {
+  color: #784af4 !important;
+  z-index: 1;
+  font-size: 18px !important;
+}
+.stepcircle {
+  width: 8px !important;
+  height: 8px !important;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.stepactive {
+  color: #784af4;
+}
+
+.visuallyHidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0px;
+  position: absolute;
+  top: 20;
+  width: 1px;
+}
+.companyHeading {
+  font-size: 24px !important;
+  font-weight: 500 !important;
+}
+.viewSource {
+  padding: 9px;
+  font-size: 12px;
+}
+.column-value {
+  font-weight: 500;
+  text-overflow: ellipsis !important;
+  max-height: 36px;
+  overflow: hidden;
+  // text-overflow: ellipsis;
+  // display: -webkit-box;
+  // -webkit-line-clamp: 2; /* number of lines to show */
+  // -webkit-box-orient: vertical;
+  font-size: 13px;
+  // padding: 0 0 0 12px;
+  margin: 0;
+  font-weight: 500;
+  // text-overflow: ellipsis!important;
+  /* max-height: 33px; */
+
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  text-align: left !important;
+  display: block !important;
+  align-items: flex-start !important;
+  justify-content: left !important;
+  max-width: 270px;
+}
+.child-column-value {
+  font-size: 13px;
+  padding: 0 0 0 12px;
+  margin: 0;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  text-align: left !important;
+  display: block !important;
+  align-items: flex-start !important;
+  justify-content: left !important;
+  max-width: 235px;
+}
+.head-column {
+  padding: 0 0 0 12px !important;
+}
+.nested-column-level1 {
+  padding-left: 15px;
+}
+.nested-column-level2 {
+  padding-left: 30px !important;
+}
+.nested-column-level3 {
+  padding-left: 45px !important;
+}
+.nested-column-level4 {
+  padding-left: 60px !important;
+}
+
+.MuiTabScrollButton-root.Mui-disabled {
+  opacity: 1 !important;
+}
+.clickable-value {
+  cursor: pointer;
+}
+// .nested-table-body {
+//   tr.MuiTableRow-root:nth-child(even) {
+//     background: '#fff';
+//   }
+// }
+.even {
+  background: rgb(244 249 254);
+}

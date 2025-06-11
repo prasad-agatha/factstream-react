@@ -1,0 +1,1622 @@
+{
+  "statementType": "8K",
+  "retrievedDateUTC": "2020-11-02T21:58:56.009Z",
+  "startedDateUTC": "2020-11-02T21:59:06.009Z",
+  "finishedDateUTC": "2020-11-02T22:00:46.009Z",
+  "postedDateUTC": "2020-11-02T22:00:56.009Z",
+  "identifier": "ENDP",
+  "currency": "USD",
+  "company": {
+    "type": "CSCompanyID",
+    "identifier": "100423"
+  },
+  "period": {
+    "code": "F4Q19"
+  },
+  "source": {
+    "type": "HTML",
+    "uri": "https://investor.endo.com/node/15856/html",
+    "filename": "10218_2019Q4_ER_SEC_HTML.html",
+    "publishedDate": "2020-02-26T00:00:00.000Z"
+  },
+  "tables": [
+    {
+      "text": "Balance Sheet",
+      "externalRef": "3a0f94203d0a84d1479dfdc00373b5514a1a5b8c40104759838b685de4c8d86b",
+      "pageNumber": [],
+      "sections": [
+        {
+          "sortNo": 0,
+          "text": "Current Assets",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 1,
+              "text": "Cash and cash equivalents",
+              "externalRef": "10218|CS|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 7533,
+                    "posX1": 991,
+                    "posY1": 7548
+                  },
+                  "value": 1454531.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 7533,
+                    "posX1": 1179,
+                    "posY1": 7548
+                  },
+                  "value": 1149113.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 2,
+              "text": "Restricted cash and cash equivalents",
+              "externalRef": "10218|CSR|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1100,
+                    "posY0": 7553,
+                    "posX1": 1144,
+                    "posY1": 7568
+                  },
+                  "value": 247457.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 7553,
+                    "posX1": 1330,
+                    "posY1": 7568
+                  },
+                  "value": 305368.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 3,
+              "text": "Accounts receivable",
+              "externalRef": "10218|AR|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1100,
+                    "posY0": 7573,
+                    "posX1": 1144,
+                    "posY1": 7588
+                  },
+                  "value": 467953.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 7573,
+                    "posX1": 1330,
+                    "posY1": 7588
+                  },
+                  "value": 470570.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 4,
+              "text": "Inventories, net",
+              "externalRef": "10218|INV|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1100,
+                    "posY0": 7593,
+                    "posX1": 1144,
+                    "posY1": 7608
+                  },
+                  "value": 327865.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 7593,
+                    "posX1": 1330,
+                    "posY1": 7608
+                  },
+                  "value": 322179.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 5,
+              "text": "Total current assets",
+              "externalRef": "10218|TCA|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 7634,
+                    "posX1": 991,
+                    "posY1": 7649
+                  },
+                  "value": 2586218.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 7634,
+                    "posX1": 1179,
+                    "posY1": 7649
+                  },
+                  "value": 2343150.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 1,
+          "text": "Non-Current Assets",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 7,
+              "text": "TOTAL ASSETS",
+              "externalRef": "10218|TAX|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 7676,
+                    "posX1": 991,
+                    "posY1": 7691
+                  },
+                  "value": 9389527.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 7676,
+                    "posX1": 1179,
+                    "posY1": 7691
+                  },
+                  "value": 10132393.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 2,
+          "text": "Current Liabilities",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 9,
+              "text": "Accounts payable and accrued expenses, including legal settlement accruals",
+              "externalRef": "10218|APO|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 7739,
+                    "posX1": 991,
+                    "posY1": 7754
+                  },
+                  "value": 1412954.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 7739,
+                    "posX1": 1179,
+                    "posY1": 7754
+                  },
+                  "value": 1914285.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 10,
+              "text": "Total current liabilities",
+              "externalRef": "10218|TCL|1",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 7780,
+                    "posX1": 991,
+                    "posY1": 7795
+                  },
+                  "value": 1460289.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 7780,
+                    "posX1": 1179,
+                    "posY1": 7795
+                  },
+                  "value": 1950096.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        }
+      ],
+      "sortNo": 0
+    },
+    {
+      "text": "Income Statement",
+      "externalRef": "7d5e3a7ddbe896c0c62d3ada13d1a253b9c261c19cc56d9643dc79c10a0871cb",
+      "pageNumber": [],
+      "sections": [
+        {
+          "sortNo": 0,
+          "text": "Revenues",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2019Q4",
+              "period": {
+                "code": "F4Q19"
+              }
+            },
+            {
+              "sortNo": 2,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            },
+            {
+              "sortNo": 3,
+              "text": "2018Q4",
+              "period": {
+                "code": "F4Q18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 1,
+              "text": "TOTAL REVENUES, NET",
+              "externalRef": "10218|TRA|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 988,
+                    "posY0": 6790,
+                    "posX1": 994,
+                    "posY1": 6805
+                  },
+                  "value": 2914364.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 611,
+                    "posY0": 6790,
+                    "posX1": 617,
+                    "posY1": 6805
+                  },
+                  "value": 764800.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 6790,
+                    "posX1": 1179,
+                    "posY1": 6805
+                  },
+                  "value": 2947078.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 800,
+                    "posY0": 6790,
+                    "posX1": 806,
+                    "posY1": 6805
+                  },
+                  "value": 786389.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 1,
+          "text": "Operating Expenses",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2019Q4",
+              "period": {
+                "code": "F4Q19"
+              }
+            },
+            {
+              "sortNo": 2,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            },
+            {
+              "sortNo": 3,
+              "text": "2018Q4",
+              "period": {
+                "code": "F4Q18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 3,
+              "text": "Selling, general and administrative",
+              "externalRef": "10218|SGA|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1101,
+                    "posY0": 6850,
+                    "posX1": 1145,
+                    "posY1": 6865
+                  },
+                  "value": 632420.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 726,
+                    "posY0": 6850,
+                    "posX1": 770,
+                    "posY1": 6865
+                  },
+                  "value": 160671.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 6850,
+                    "posX1": 1330,
+                    "posY1": 6865
+                  },
+                  "value": 646037.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 915,
+                    "posY0": 6850,
+                    "posX1": 959,
+                    "posY1": 6865
+                  },
+                  "value": 167422.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 4,
+              "text": "Research and development",
+              "externalRef": "10218|RD|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1101,
+                    "posY0": 6870,
+                    "posX1": 1145,
+                    "posY1": 6885
+                  },
+                  "value": 130732.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 733,
+                    "posY0": 6870,
+                    "posX1": 770,
+                    "posY1": 6885
+                  },
+                  "value": 34379.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 6870,
+                    "posX1": 1330,
+                    "posY1": 6885
+                  },
+                  "value": 185826.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 922,
+                    "posY0": 6870,
+                    "posX1": 959,
+                    "posY1": 6885
+                  },
+                  "value": 25395.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 2,
+          "text": "Non Operating Expenses",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2019Q4",
+              "period": {
+                "code": "F4Q19"
+              }
+            },
+            {
+              "sortNo": 2,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            },
+            {
+              "sortNo": 3,
+              "text": "2018Q4",
+              "period": {
+                "code": "F4Q18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 6,
+              "text": "Interest expense, net",
+              "externalRef": "10218|IEX|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1101,
+                    "posY0": 6950,
+                    "posX1": 1145,
+                    "posY1": 6965
+                  },
+                  "value": 538734.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 726,
+                    "posY0": 6950,
+                    "posX1": 770,
+                    "posY1": 6965
+                  },
+                  "value": 134347.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 6950,
+                    "posX1": 1330,
+                    "posY1": 6965
+                  },
+                  "value": 521656.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 915,
+                    "posY0": 6950,
+                    "posX1": 959,
+                    "posY1": 6965
+                  },
+                  "value": 135760.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 7,
+              "text": "Gain on extinguishment of debt",
+              "externalRef": "10218|EI|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1097,
+                    "posY0": 6970,
+                    "posX1": 1145,
+                    "posY1": 6985
+                  },
+                  "value": -119828.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 8,
+              "text": "Other (income) expense, net",
+              "externalRef": "10218|NOIE|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1108,
+                    "posY0": 6990,
+                    "posX1": 1145,
+                    "posY1": 7005
+                  },
+                  "value": 16677.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 735,
+                    "posY0": 6990,
+                    "posX1": 770,
+                    "posY1": 7005
+                  },
+                  "value": -3731.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1288,
+                    "posY0": 6990,
+                    "posX1": 1330,
+                    "posY1": 7005
+                  },
+                  "value": -51953.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 917,
+                    "posY0": 6990,
+                    "posX1": 959,
+                    "posY1": 7005
+                  },
+                  "value": -18737.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 9,
+              "text": "INCOME TAX (BENEFIT) EXPENSE",
+              "externalRef": "10218|IT|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1108,
+                    "posY0": 7032,
+                    "posX1": 1145,
+                    "posY1": 7047
+                  },
+                  "value": 15680.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 728,
+                    "posY0": 7032,
+                    "posX1": 770,
+                    "posY1": 7047
+                  },
+                  "value": -16052.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1293,
+                    "posY0": 7032,
+                    "posX1": 1330,
+                    "posY1": 7047
+                  },
+                  "value": 22935.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 924,
+                    "posY0": 7032,
+                    "posX1": 959,
+                    "posY1": 7047
+                  },
+                  "value": -1794.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 10,
+              "text": "DISCONTINUED OPERATIONS, NET OF TAX",
+              "externalRef": "10218|EDO|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1103,
+                    "posY0": 7074,
+                    "posX1": 1145,
+                    "posY1": 7089
+                  },
+                  "value": -62052.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 728,
+                    "posY0": 7074,
+                    "posX1": 770,
+                    "posY1": 7089
+                  },
+                  "value": -10154.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1288,
+                    "posY0": 7074,
+                    "posX1": 1330,
+                    "posY1": 7089
+                  },
+                  "value": -69702.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 917,
+                    "posY0": 7074,
+                    "posX1": 959,
+                    "posY1": 7089
+                  },
+                  "value": -26429.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 3,
+          "text": "Earnings Per Share Diluted",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2019Q4",
+              "period": {
+                "code": "F4Q19"
+              }
+            },
+            {
+              "sortNo": 2,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            },
+            {
+              "sortNo": 3,
+              "text": "2018Q4",
+              "period": {
+                "code": "F4Q18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 12,
+              "text": "Diluted",
+              "externalRef": "10218|EPSD94|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 988,
+                    "posY0": 7263,
+                    "posX1": 994,
+                    "posY1": 7278
+                  },
+                  "value": -1.87,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 611,
+                    "posY0": 7263,
+                    "posX1": 617,
+                    "posY1": 7278
+                  },
+                  "value": -0.96,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 7263,
+                    "posX1": 1179,
+                    "posY1": 7278
+                  },
+                  "value": -4.61,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 800,
+                    "posY0": 7263,
+                    "posX1": 806,
+                    "posY1": 7278
+                  },
+                  "value": -1.3,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 4,
+          "text": "Weighted Average Share Outstanding",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2019Q4",
+              "period": {
+                "code": "F4Q19"
+              }
+            },
+            {
+              "sortNo": 2,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            },
+            {
+              "sortNo": 3,
+              "text": "2018Q4",
+              "period": {
+                "code": "F4Q18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 14,
+              "text": "Diluted",
+              "externalRef": "10218|WASOD95|2",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1101,
+                    "posY0": 7326,
+                    "posX1": 1145,
+                    "posY1": 7341
+                  },
+                  "value": 226050.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 726,
+                    "posY0": 7326,
+                    "posX1": 770,
+                    "posY1": 7341
+                  },
+                  "value": 226787.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 7326,
+                    "posX1": 1330,
+                    "posY1": 7341
+                  },
+                  "value": 223960.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 915,
+                    "posY0": 7326,
+                    "posX1": 959,
+                    "posY1": 7341
+                  },
+                  "value": 224353.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        }
+      ],
+      "sortNo": 1
+    },
+    {
+      "text": "Cash Flow",
+      "externalRef": "3aa29e1fad9c833afbd7dfe1ccf132fc78c2864f2ee438852b9af713e3297a2b",
+      "pageNumber": [],
+      "sections": [
+        {
+          "sortNo": 0,
+          "text": "Operating Activities - Non Cash",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 1,
+              "text": "Depreciation and amortization",
+              "externalRef": "10218|CFDPAM|3",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1100,
+                    "posY0": 8112,
+                    "posX1": 1144,
+                    "posY1": 8127
+                  },
+                  "value": 612862.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1286,
+                    "posY0": 8112,
+                    "posX1": 1330,
+                    "posY1": 8127
+                  },
+                  "value": 723707.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 1,
+          "text": "Operating Activities - WorkingCapital",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 3,
+              "text": "Net cash provided by operating activities",
+              "externalRef": "10218|CFFO|3",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 8173,
+                    "posX1": 991,
+                    "posY1": 8188
+                  },
+                  "value": 98052.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 8173,
+                    "posX1": 1179,
+                    "posY1": 8188
+                  },
+                  "value": 267270.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        },
+        {
+          "sortNo": 2,
+          "text": "Investing Activities",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 5,
+              "text": "Purchases of property, plant and equipment, excluding capitalized interest",
+              "externalRef": "10218|CFPPS|3",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 985,
+                    "posY0": 8214,
+                    "posX1": 991,
+                    "posY1": 8229
+                  },
+                  "value": -63854.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1173,
+                    "posY0": 8214,
+                    "posX1": 1179,
+                    "posY1": 8229
+                  },
+                  "value": -83398.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 6,
+              "text": "Proceeds from sale of business and other assets, net",
+              "externalRef": "10218|CFD|3",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1114,
+                    "posY0": 8234,
+                    "posX1": 1144,
+                    "posY1": 8249
+                  },
+                  "value": 6577.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1293,
+                    "posY0": 8234,
+                    "posX1": 1330,
+                    "posY1": 8249
+                  },
+                  "value": 70369.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            }
+          ]
+        }
+      ],
+      "sortNo": 2
+    },
+    {
+      "text": "Non-GAAP Tables",
+      "externalRef": "e8c4f880c552e40e4ec16cce0e3d882e559d790aa47c0c417f6de5c2e52f9a0d",
+      "pageNumber": [],
+      "sections": [
+        {
+          "sortNo": 0,
+          "text": "Non-GAAP Operating Earnings",
+          "sections": [],
+          "columns": [
+            {
+              "sortNo": 0,
+              "text": "2019FY",
+              "period": {
+                "code": "FY19"
+              }
+            },
+            {
+              "sortNo": 1,
+              "text": "2019Q4",
+              "period": {
+                "code": "F4Q19"
+              }
+            },
+            {
+              "sortNo": 2,
+              "text": "2018FY",
+              "period": {
+                "code": "FY18"
+              }
+            },
+            {
+              "sortNo": 3,
+              "text": "2018Q4",
+              "period": {
+                "code": "F4Q18"
+              }
+            }
+          ],
+          "dataItems": [
+            {
+              "sortNo": 1,
+              "text": "Adjusted Income from Continuing Operations",
+              "externalRef": "10218|ADJEDOS|35",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 877,
+                    "posY0": 3575,
+                    "posX1": 883,
+                    "posY1": 3590
+                  },
+                  "value": 551524.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 396,
+                    "posY0": 3575,
+                    "posX1": 402,
+                    "posY1": 3590
+                  },
+                  "value": 170907.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1062,
+                    "posY0": 3575,
+                    "posX1": 1068,
+                    "posY1": 3590
+                  },
+                  "value": 663206.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 581,
+                    "posY0": 3575,
+                    "posX1": 587,
+                    "posY1": 3590
+                  },
+                  "value": 175383.0,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Thousands"
+            },
+            {
+              "sortNo": 2,
+              "text": "Adjusted Diluted Net Income per Share from Continuing Operations",
+              "externalRef": "10218|ADJEPSDS|35",
+              "notes": [],
+              "values": [
+                {
+                  "sortNo": 0,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 877,
+                    "posY0": 3631,
+                    "posX1": 883,
+                    "posY1": 3646
+                  },
+                  "value": 2.38,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 1,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 396,
+                    "posY0": 3631,
+                    "posX1": 402,
+                    "posY1": 3646
+                  },
+                  "value": 0.74,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 2,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 1062,
+                    "posY0": 3631,
+                    "posX1": 1068,
+                    "posY1": 3646
+                  },
+                  "value": 2.89,
+                  "confidenceScore": 1,
+                  "notes": []
+                },
+                {
+                  "sortNo": 3,
+                  "externalRef": "",
+                  "location": {
+                    "page": -1,
+                    "posX0": 581,
+                    "posY0": 3631,
+                    "posX1": 587,
+                    "posY1": 3646
+                  },
+                  "value": 0.75,
+                  "confidenceScore": 1,
+                  "notes": []
+                }
+              ],
+              "dataItems": [],
+              "unit": "Ones"
+            }
+          ]
+        }
+      ],
+      "sortNo": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+.menuToolbar {
+  min-height: 50px !important;
+  background: linear-gradient(180deg, #0b488f 0%, #0a376c 100%);
+}
+.userInfo {
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0px 10px;
+  min-height: 50px;
+  display: flex;
+}
+.user {
+  font-size: 14px;
+  color: #ffffff;
+  padding-left: 5px;
+}
+.logo {
+  width: 150px;
+}
+.userImage {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 3px;
+}
+.iconColor {
+  color: #adcdf0 !important;
+}
+.badge {
+  color: #adcdf0;
+  & > .MuiBadge-colorPrimary {
+    color: #fff;
+    background-color: #ff9b02;
+  }
+}
+.notification {
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0px 10px;
+  min-height: 50px;
+  display: flex;
+}
+.notificationIcon {
+  font-size: 30px !important;
+  color: #adcdf0;
+}
+.searchIcon {
+  padding: 16px;
+  height: 100%;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #adcdf0;
+}
+.hide {
+  display: none !important;
+}

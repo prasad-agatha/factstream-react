@@ -1,0 +1,155 @@
+.custom_formControl {
+  background-color: #ffffff;
+  &:focus {
+    background-color: none;
+  }
+}
+.custom_selectInput {
+  height: 34px;
+  border-radius: 0;
+}
+.searchtextField {
+  width: 60ch;
+  border-color: #89aff0 !important;
+  height: 38px;
+}
+.searchInput {
+  height: 38px;
+  padding-left: 0px !important;
+  & > .MuiOutlinedInput-notchedOutline {
+    border-color: #89aff0;
+  }
+}
+.selectInput {
+  height: 30px;
+}
+.hrRow {
+  opacity: 0.2;
+  margin: 12px 0;
+}
+.tableContainer {
+  box-shadow: none !important;
+  border: 1px solid #adcdf0 !important;
+  border-radius: 4px !important;
+  background: #fff;
+  max-height: 600px;
+  min-width: 140px;
+}
+.tableContainer-dashboard {
+  box-shadow: none !important;
+  border: 1px solid #adcdf0 !important;
+  border-radius: 4px !important;
+  background: #fff;
+}
+.tableHeading {
+  font-weight: 500;
+}
+.collapseTablecell {
+  padding: 0 !important;
+  &.MuiTableCell-sizeSmall {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+}
+.tableHeadCollaspse {
+  // border-top: 1px solid #dbebfc !important;
+  // padding: 6px 24px 6px 40px !important;
+  width: 310px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 10px !important;
+}
+.NestedtableHeadCollaspse {
+  // border-top: 1px solid #dbebfc !important;
+  // padding: 6px 24px 6px 40px !important;
+  width: 310px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 25px !important;
+}
+
+.Nested-tableHeadCollaspse {
+  // border-top: 1px solid #dbebfc !important;
+  // padding: 6px 24px 6px 40px !important;
+  width: 310px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 40px !important;
+}
+.Nested-NestedtableHeadCollaspse {
+  // border-top: 1px solid #dbebfc !important;
+  // padding: 6px 24px 6px 40px !important;
+  width: 310px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 70px !important;
+}
+.tableBorder {
+  border-top: 1px solid #dbebfc !important;
+  border-color: #dbebfc !important;
+  padding: 6px 24px 6px 38px !important;
+}
+.tableBorder:last-child {
+  padding-right: 16px !important;
+}
+.fileInput {
+  height: 44px !important;
+}
+.tablebodyCell {
+  background-color: #f4f9fe !important;
+  color: #000 !important;
+  & > .MuiTableCell-body {
+    font-weight: 600;
+  }
+}
+.tabList {
+  text-transform: none !important;
+  min-width: 72px !important;
+  min-height: 38px !important;
+  font-size: 12px;
+  font-weight: normal !important;
+  margin-right: 8px !important;
+  background: #ffffff !important;
+  border: 1px solid #adcdf0 !important;
+  border-radius: 4px 4px 0 0 !important;
+  color: #4a90e2 !important;
+  margin-bottom: -1px !important;
+  opacity: 1 !important;
+  &:hover {
+    color: #4a90e2 !important;
+    opacity: 1 !important;
+  }
+  &.Mui-selected {
+    color: #000 !important;
+    font-weight: 500 !important;
+    border-bottom-color: transparent !important;
+    background: #ffffff !important;
+  }
+  &:focus {
+    color: #000 !important;
+  }
+}
+.tabview {
+  min-height: 38px;
+  & > .MuiTabs-scroller > .MuiTabs-flexContainer {
+    border-bottom: 1px solid #adcdf0;
+    padding-left: 30px;
+  }
+}
+.tableHeadcolumn {
+  width: 310px !important;
+}
+.tablePadding {
+  padding-left: 15px;
+  max-height: 36px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  -webkit-box-orient: vertical;
+  margin: 0px;
+}
+.filter-select {
+  width: 250px !important;
+  z-index: 5;
+}
